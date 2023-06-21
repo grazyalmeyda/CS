@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "I74/O153qfswJrSWa3FXC+pGPzk/D2OB8qD3bX1YA8qvs4zD37XZd3tv2gAoN4Cr4RHHdeD6X2be/A6zMALZig==",
+  "success": true,
+  "projectFilePath": "/home/estudante1/ProvaLp3/ProvaLp3/ProvaLp3.csproj",
+  "expectedPackageFiles": [
+    "/home/estudante1/.nuget/packages/microsoft.data.sqlite/7.0.7/microsoft.data.sqlite.7.0.7.nupkg.sha512",
+    "/home/estudante1/.nuget/packages/microsoft.data.sqlite.core/7.0.7/microsoft.data.sqlite.core.7.0.7.nupkg.sha512",
+    "/home/estudante1/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.1.4/sqlitepclraw.bundle_e_sqlite3.2.1.4.nupkg.sha512",
+    "/home/estudante1/.nuget/packages/sqlitepclraw.core/2.1.4/sqlitepclraw.core.2.1.4.nupkg.sha512",
+    "/home/estudante1/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.4/sqlitepclraw.lib.e_sqlite3.2.1.4.nupkg.sha512",
+    "/home/estudante1/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.1.4/sqlitepclraw.provider.e_sqlite3.2.1.4.nupkg.sha512",
+    "/home/estudante1/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
